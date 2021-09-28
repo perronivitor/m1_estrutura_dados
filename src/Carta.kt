@@ -1,0 +1,1 @@
+data class Carta(var valor: String = "", var naipe: String = "")
